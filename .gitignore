@@ -7,6 +7,11 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+
+node_modules
+app1.js
+package-lock.json
+
 .Python
 build/
 develop-eggs/
